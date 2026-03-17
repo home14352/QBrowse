@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="logo/qbrowse-logo.svg">resources/logo/qbrowse-logo.svg</file>
+  </qresource>
+</RCC>
