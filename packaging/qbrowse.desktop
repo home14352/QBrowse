@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=QBrowse
+GenericName=Web Browser
+Comment=Native Chromium browser shell for Linux
+Exec=qbrowse %u
+Terminal=false
+Icon=qbrowse
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/about;
+StartupNotify=true
